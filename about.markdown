@@ -1,18 +1,11 @@
 ---
-layout: page
+layout: home
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I work as a data engineer solving problems and maintaining solutions in the data pipelining and migration space.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Educationally, I have degrees in Mathematics (BS) and Data Science (MS).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I enjoy solving problems at the confluence of mathematics, computing, and operations research! To this end, my hobby projects revolve around solving problems in the mathematical planning space. More specifically, I am actively building and refining tools to optimally build weekly meal-plans according to constraints.

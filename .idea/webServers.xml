@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="59ea79b8-0ca7-49cf-b4b5-3490b2f6bd75" name="Local Jekyll" url="http://localhost:9001">
+        <fileTransfer mountedRoot="$PROJECT_DIR$/_site" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

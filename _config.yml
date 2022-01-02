@@ -20,9 +20,9 @@
 
 title: Tyler Peters
 email: tpete751@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Personal site for Tyler Peters. Tyler's a data engineer with 
-  experience in the mathematical planning space.
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Personal site for Tyler Peters. Tyler's a data engineer with
+#  experience in the mathematical planning space.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tylerjpeters.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mathrulesearth
